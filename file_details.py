@@ -10,5 +10,3 @@ for file in glob.glob(path + '/*'):
     
 for i in range(len(files)):
     print(files[i])
-
-    
